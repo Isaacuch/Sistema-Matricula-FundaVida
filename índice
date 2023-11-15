@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="zxx">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS --> 
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/bootstrap.min.css">
+        <!-- Animate CSS --> 
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/animate.min.css">
+        <!-- Meanmenu CSS -->
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/meanmenu.css">
+        <!-- Boxicons CSS -->
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/boxicons.min.css">
+        <!-- Owl Carousel CSS -->
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/owl.carousel.min.css">
+        <!-- Owl Carousel Default CSS -->
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/owl.theme.default.min.css">
+        <!-- Odometer CSS -->
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/odometer.min.css">
+        <!-- Magnific Popup CSS -->
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/magnific-popup.min.css">
+        <!-- Imagelightbox CSS -->
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/imagelightbox.min.css">
+        <!-- Style CSS -->
+        <link rel="stylesheet" href="https://aula.luvacr.com/assets/css/style.css">
+        <!-- Responsive CSS -->
+		<link rel="stylesheet" href="https://aula.luvacr.com/assets/css/responsive.css">
+		
+		<title>Luvá - Aula Virtual</title>
+        <meta name="keywords" content="Academia Luvá, Robotica, arduino, cursos tecnología" />
+        <meta name="description" content="Academia Luvá a través de la enseñanza orienta a los estudiantes a la Tecnología, Innovación y Desarrollo." />
+        <meta name="author" content="Academia Luvá" />
+
+        <link rel="icon" type="image/png" href="https://aula.luvacr.com/assets/img/favicon.png">
+        <script src="sweetalert.min.js"></script>
+    </head>
+
+    <body>
+        
+        <!-- Start Preloader Area -->
+        <div class="preloader">
+            <div class="loader">
+                <div class="wrapper">
+                    <div class="circle circle-1"></div>
+                    <div class="circle circle-1a"></div>
+                    <div class="circle circle-2"></div>
+                    <div class="circle circle-3"></div>
+                </div>
+            </div>
+        </div>
+        <!-- End Preloader Area -->
+
+        <!-- Start Navbar Area -->
+        <div class="navbar-area">
+            <div class="main-responsive-nav">
+                <div class="container">
+                    <div class="main-responsive-menu">
+                        <div class="logo">
+                            <a href="https://www.luvacr.com">
+                                <img src="https://aula.luvacr.com/assets/img/logo.png" alt="image">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="main-navbar">
+                <div class="container">
+                    <nav class="navbar navbar-expand-md navbar-light">
+                        <a class="navbar-brand" href="https://www.luvacr.com">
+                            <img src="https://aula.luvacr.com/assets/img/logo.png" alt="image">
+                        </a>
+
+                        <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a href="https://www.luvacr.com/" class="nav-link">
+                                        Inicio
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://www.luvacr.com/paquetes.php" class="nav-link">
+                                        Paquetes
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://www.luvacr.com/nosotros.html" class="nav-link">
+                                        Nosotros
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://www.luvacr.com/torneo.html" class="nav-link">
+                                        Torneo
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://www.luvacr.com/empresas.html" class="nav-link">
+                                        Empresas
+                                    </a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a href="https://aula.luvacr.com/" class="nav-link">
+                                        Aula Virtual
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://www.luvacr.com/blog.php" class="nav-link">
+                                        Blog
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://www.luvacr.com/contacto.html" class="nav-link">
+                                        Contacto
+                                    </a>
+                                </li>
+                            </ul>
+
+                            <div class="others-options d-flex align-items-center">
+                                <div class="option-item">
+                                    <a href="https://wa.me/50687190204/?text=Quiero%20información%20de%20Luvá" target="_blank" class="default-btn">Whatsapp</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        
+                    </nav>
+                </div>
+            </div>
+
+            <div class="others-option-for-responsive">
+                <div class="container">
+                    <div class="dot-menu">
+                        <div class="inner">
+                            <div class="circle circle-one"></div>
+                            <div class="circle circle-two"></div>
+                            <div class="circle circle-three"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="container">
+                        <div class="option-inner">
+                            <div class="others-options d-flex align-items-center">
+                                <div class="option-item">
+                                    <a href="https://wa.me/50687190204/?text=Quiero%20información%20de%20Luvá" class="default-btn">Whatsapp</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Navbar Area -->
+
+        <!-- Start Page Banner -->
+        <div class="page-banner-area item-bg5">
+            <div class="d-table">
+                <div class="d-table-cell">
+                    <div class="container">
+                        <div class="page-banner-content">
+                            <h2>Aula Virtual</h2>
+                            <ul>
+                                <li>
+                                    <a href="https://www.luvacr.com/index.html">Inicio</a>
+                                </li>
+                                <li>Aula Virtual</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Page Banner -->
+
+        <!-- Start Register Area -->
+        <section class="register-area ptb-50">
+            <div class="container">
+
+                <img src="images/login-aula.png" style="width: 90%; max-width: 400px; display: block; margin: 0 auto;">
+
+                <div class="register-form">
+                    <h2>Iniciar Sesión</h2>
+
+                    <form>
+                        <div class="form-group">
+                            <label>Correo Electrónico</label>
+                            <input id="inputCorreoUsuario" type="text" class="form-control" placeholder="Correo Electrónico">
+                        </div>
+
+                        <div class="form-group">
+                            <label>Clave</label>
+                            <input id="inputClaveUsuario" type="password" class="form-control" placeholder="Clave de Acceso">
+                        </div>
+
+                        <button onclick="loginUsuario()" type="button">Iniciar Sesión</button>
+                    </form>
+
+                    <div class="important-text">
+                        <p>Olvidó su contraseña? <a href="https://aula.luvacr.com/recuperar-contrasena.html">Recuperar Contraseña</a></p>
+                    </div>
+
+                    <div class="important-text">
+                        <p>Aún no tienes cuenta? <a href="https://www.luvacr.com/registro.html" target="_blank">Registrarme</a></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Register Area -->
+        
+
+        <!-- Start Footer Area -->
+        <section class="footer-area pt-100 pb-70">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="single-footer-widget">
+                            <div class="logo">
+                                <img src="https://aula.luvacr.com/assets/img/footer-logo.png">
+                            </div>
+                            <p>Mediante sesiones de trabajo, los estudiantes junto al instructor desarrollan proyectos de Robótica STEM, cada clase cuenta con su objetivo específico, clases debidamente estructuradas, cada contenido creado por ingenieros y avalados por profesoras de Educación Especial.</p>
+                            
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="single-footer-widget">
+                            <h3>Contacto</h3>
+
+                            <ul class="footer-contact-info">
+                                <li>
+                                    <i class='bx bxs-phone'></i>
+                                    <span>Teléfono</span>
+                                    <a href="tel:50687190204">+506 8719 0204</a>
+                                </li>
+                                <li>
+                                    <i class='bx bx-envelope'></i>
+                                    <span>Correo</span>
+                                    <a href="mailto:info@luvacr.com">info@luvacr.com</a>
+                                </li>
+                                <li>
+                                    <i class='bx bx-map'></i>
+                                    <span>Dirección</span>
+                                    San José, Costa Rica
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="single-footer-widget pl-5">
+                            <h3>Enlaces</h3>
+    
+                            <ul class="quick-links">
+                                <li>
+                                    <a href="https://www.luvacr.com/index.html">Inicio</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.luvacr.com/paquetes.php">Paquetes</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.luvacr.com/nosotros.html">Nosotros</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.luvacr.com/torneo.html">Torneo</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.luvacr.com/empresas.html">Empresas</a>
+                                </li>
+                                <li>
+                                    <a href="https://aula.luvacr.com/">Aula Virtual</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.luvacr.com/blog.php">Blog</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.luvacr.com/contacto.html">Contacto</a>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="single-footer-widget">
+                            <h3>Síguenos</h3>
+
+                            <ul class="social">
+                                <li>
+                                    <a href="https://www.facebook.com/academialuva/" target="_blank">
+                                        <i class='bx bxl-facebook'></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/academia_luva/" target="_blank">
+                                        <i class='bx bxl-instagram'></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/channel/UCSuXcXyEawAlFTYjYL4E-oQ" target="_blank">
+                                        <i class='bx bxl-youtube'></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Footer Area -->
+
+        <!-- Start Copy Right Area -->
+        <div class="copyright-area">
+            <div class="container">
+                <div class="copyright-area-content">
+                    <p>&copy; Copyright - <script> var f = new Date(); document.write(f.getFullYear()); </script>  Academia LUVÁ - Diseñado por <a href="http://www.carvajalcostarica.com" target="_blank">Carvajal Costa Rica</a> </p>
+                </div>
+            </div>
+        </div>
+        <!-- End Copy Right Area -->
+
+        <!-- Start Go Top Area -->
+        <div class="go-top">
+            <i class='bx bx-up-arrow-alt'></i>
+        </div>
+        <!-- End Go Top Area -->
+
+        <!-- Jquery Slim JS -->
+        <script src="https://aula.luvacr.com/assets/js/jquery.min.js"></script>
+        <!-- Popper JS -->
+        <script src="https://aula.luvacr.com/assets/js/popper.min.js"></script>
+        <!-- Bootstrap JS -->
+        <script src="https://aula.luvacr.com/assets/js/bootstrap.min.js"></script>
+        <!-- Meanmenu JS -->
+        <script src="https://aula.luvacr.com/assets/js/jquery.meanmenu.js"></script>
+        <!-- Owl Carousel JS -->
+        <script src="https://aula.luvacr.com/assets/js/owl.carousel.min.js"></script>
+        <!-- Magnific Popup JS -->
+        <script src="https://aula.luvacr.com/assets/js/jquery.magnific-popup.min.js"></script>
+        <!-- Imagelightbox JS -->
+		<script src="https://aula.luvacr.com/assets/js/imagelightbox.min.js"></script>
+        <!-- Odometer JS -->
+        <script src="https://aula.luvacr.com/assets/js/odometer.min.js"></script>
+        <!-- Jquery Appear JS -->
+        <script src="https://aula.luvacr.com/assets/js/jquery.appear.min.js"></script>
+        <!-- Ajaxchimp JS -->
+		<script src="https://aula.luvacr.com/assets/js/jquery.ajaxchimp.min.js"></script>
+		<!-- Form Validator JS -->
+		<script src="https://aula.luvacr.com/assets/js/form-validator.min.js"></script>
+		<!-- Contact JS -->
+        <script src="https://aula.luvacr.com/assets/js/contact-form-script.js"></script>
+        <!-- Custom JS -->
+        <script src="https://aula.luvacr.com/assets/js/main.js"></script>
+        <script src="gestionarlogin.js"></script>
+    </body>
+</html>
